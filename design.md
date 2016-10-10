@@ -2,7 +2,7 @@
 
 ---
 layout: archive
-title: RAHUL GOYAL
+title: Design
 permalink: /design/
 tagline: HEART + BRAIN = NOTHING
 ---

@@ -9,7 +9,7 @@ tagline: "Loved it? Download Gravity"
 
 <br>
 <div class="download">
-  <center>Just a second! <i class="fa fa-heart"></i> Star it if you loved!</center>
+  <center>goddddddddddddddddddddd <i class="fa fa-heart"></i> Star it if you loved!</center>
   <br>
 <center>
   <iframe src="https://ghbtns.com/github-btn.html?user=hemangsk&repo=gravity&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>

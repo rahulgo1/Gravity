@@ -2,7 +2,7 @@
 
 ---
 layout: archive
-title: RAHUL GOYAL
+title: About
 permalink: /about/
 tagline: AKSHYA KUMAR ROCKSIN BABY
 category: "ABOUT ME"
