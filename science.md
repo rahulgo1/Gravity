@@ -2,6 +2,6 @@
 layout: archive
 title: Science
 permalink: /science/
-tagline: "Humanity is overrated."
+tagline: "cooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooollllllllllllllllllllllllll"
 category: "science"
 ---

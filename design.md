@@ -1,7 +1,9 @@
+
+
 ---
-layout: archive
-title: Design
+layout: page
+title: RAHUL GOYAL
 permalink: /design/
-category: "design"
-tagline: "it's all about perception."
+tagline: HEART + BRAIN = NOTHING
 ---
+
